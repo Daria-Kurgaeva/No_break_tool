@@ -18,7 +18,7 @@ p:not(:last-child) {
 
 .wrapper {
     margin: auto;
-    max-width: 1170px;
+    max-width: 1200px;
     padding: 0 20px;
 }
 
